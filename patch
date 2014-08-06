@@ -1,0 +1,28 @@
+diff --git a/MainActivity b/MainActivity
+index a4c998a..cdf5c41 100644
+--- a/MainActivity
++++ b/MainActivity
+@@ -11,6 +11,7 @@
+  */
+ package com.bananatv.custom.launcher.ui.activity;
+ 
++//ad
+ import java.io.FileInputStream;
+ import java.io.FileNotFoundException;
+ import java.io.IOException;
+@@ -85,7 +86,7 @@ import com.bananatv.custom.launcher.view.ShowToast;
+  * @Prject: BananaTVLauncher
+  * @Package: com.gridviewtv.launcher
+  * @Description: TODO
+- * @author: zhanglong
++ * @author: 袁欢
+  * @date: 2013-9-22 上午10:18:23
+  * @version: V1.0
+  */
+diff --git a/test.java b/test.java
+deleted file mode 100644
+index a1c818b..0000000
+--- a/test.java
++++ /dev/null
+@@ -1 +0,0 @@
+-jfdghdjkl vnbvhjdbvhfdbhj

@@ -11,6 +11,7 @@
  */
 package com.bananatv.custom.launcher.ui.activity;
 
+//ad
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -85,7 +86,7 @@ import com.bananatv.custom.launcher.view.ShowToast;
  * @Prject: BananaTVLauncher
  * @Package: com.gridviewtv.launcher
  * @Description: TODO
- * @author: zhanglong
+ * @author: 袁欢
  * @date: 2013-9-22 上午10:18:23
  * @version: V1.0
  */
